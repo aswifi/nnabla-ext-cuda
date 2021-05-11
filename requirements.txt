@@ -1,0 +1,25 @@
+# Setup
+pip
+wheel
+mako
+PyYAML
+
+# Runtime
+Cython
+boto3
+h5py<=3.1.0
+numpy==1.19.5
+onnx
+protobuf
+requests
+six
+tqdm
+pynvml
+
+autopep8
+
+# Test
+ipython
+pytest
+scipy
+scikit-image
